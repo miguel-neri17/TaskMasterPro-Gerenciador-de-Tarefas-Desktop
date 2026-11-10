@@ -1,0 +1,101 @@
+ID,Título,Categoria,Prioridade,Status
+1,Atualizar planilha de orçamento,Trabalho,Média,Pendente
+2,Pagar conta de luz,Pessoal,Média,Pendente
+3,Estudar SQL: joins e subconsultas,Estudos,Baixa,Pendente
+4,Documentar processo de consolidação,Trabalho,Média,Concluída
+5,Revisar dashboard do Power BI,Trabalho,Média,Concluída
+6,Validar números do relatório mensal,Trabalho,Média,Concluída
+7,Cobrar retorno do setor financeiro,Trabalho,Baixa,Pendente
+8,Fazer simulado de informática,Estudos,Média,Concluída
+9,Validar números do relatório mensal,Trabalho,Média,Pendente
+10,Organizar arquivos do projeto,Trabalho,Baixa,Pendente
+11,Agendar reunião com o fornecedor,Trabalho,Média,Concluída
+12,Treinar redação para o concurso,Estudos,Média,Pendente
+13,Preparar as marmitas da semana,Pessoal,Alta,Pendente
+14,Corrigir erro na base de dados,Trabalho,Alta,Concluída
+15,Reunião de alinhamento com a equipe,Trabalho,Baixa,Pendente
+16,Marcar consulta,Pessoal,Alta,Pendente
+17,Pagar conta de luz,Pessoal,Alta,Concluída
+18,Ligar para a família,Pessoal,Média,Pendente
+19,Estudar Matplotlib e gráficos,Estudos,Média,Concluída
+20,Renovar documento,Pessoal,Média,Pendente
+21,Lavar o carro,Pessoal,Média,Concluída
+22,Lavar o carro,Pessoal,Alta,Concluída
+23,Corrigir erro na base de dados,Trabalho,Média,Concluída
+24,Assistir aula de Power BI,Estudos,Alta,Pendente
+25,Conferir saldo dos créditos disponíveis,Trabalho,Alta,Pendente
+26,Conferir saldo dos créditos disponíveis,Trabalho,Média,Concluída
+27,Planejar viagem de fim de semana,Pessoal,Média,Concluída
+28,Passear com o cachorro,Pessoal,Alta,Concluída
+29,Atualizar planilha de orçamento,Trabalho,Baixa,Concluída
+30,Cobrar retorno do setor financeiro,Trabalho,Média,Pendente
+31,Conferir saldo dos créditos disponíveis,Trabalho,Média,Concluída
+32,Atualizar planilha de orçamento,Trabalho,Média,Pendente
+33,Revisar fórmulas do Excel,Estudos,Alta,Pendente
+34,Planejar viagem de fim de semana,Pessoal,Média,Concluída
+35,Estudar legislação da Embratur,Estudos,Baixa,Concluída
+36,Reunião de alinhamento com a equipe,Trabalho,Alta,Pendente
+37,Validar números do relatório mensal,Trabalho,Baixa,Pendente
+38,Reunião de alinhamento com a equipe,Trabalho,Alta,Concluída
+39,Revisar dashboard do Power BI,Trabalho,Média,Pendente
+40,Preparar apresentação para a diretoria,Trabalho,Média,Pendente
+41,Corrigir erro na base de dados,Trabalho,Alta,Pendente
+42,Resolver lista de exercícios de Python,Estudos,Baixa,Concluída
+43,Renovar documento,Pessoal,Alta,Pendente
+44,Documentar processo de consolidação,Trabalho,Média,Concluída
+45,Editar fotos da última viagem,Pessoal,Média,Concluída
+46,Preparar as marmitas da semana,Pessoal,Alta,Pendente
+47,Ligar para a família,Pessoal,Alta,Pendente
+48,Ligar para a família,Pessoal,Média,Concluída
+49,Editar fotos da última viagem,Pessoal,Alta,Concluída
+50,Preparar as marmitas da semana,Pessoal,Alta,Pendente
+51,Montar flashcards de direito administrativo,Estudos,Baixa,Pendente
+52,Responder e-mails pendentes,Trabalho,Baixa,Concluída
+53,Atualizar painel de execução,Trabalho,Alta,Concluída
+54,Ligar para a família,Pessoal,Baixa,Pendente
+55,Treinar questões da FGV,Estudos,Baixa,Concluída
+56,Planejar viagem de fim de semana,Pessoal,Baixa,Concluída
+57,Agendar reunião com o fornecedor,Trabalho,Baixa,Concluída
+58,Editar fotos da última viagem,Pessoal,Alta,Pendente
+59,Organizar o guarda-roupa,Pessoal,Alta,Pendente
+60,Preparar as marmitas da semana,Pessoal,Média,Pendente
+61,Preparar as marmitas da semana,Pessoal,Baixa,Concluída
+62,Validar números do relatório mensal,Trabalho,Alta,Concluída
+63,Cobrar retorno do setor financeiro,Trabalho,Média,Pendente
+64,Marcar consulta,Pessoal,Média,Pendente
+65,Organizar arquivos do projeto,Trabalho,Média,Pendente
+66,Organizar o guarda-roupa,Pessoal,Alta,Pendente
+67,Treino de karatê,Pessoal,Baixa,Pendente
+68,Validar números do relatório mensal,Trabalho,Média,Pendente
+69,Treino de karatê,Pessoal,Alta,Pendente
+70,Fazer simulado de informática,Estudos,Alta,Pendente
+71,Trocar o óleo do carro,Pessoal,Média,Pendente
+72,Estudar SQL: joins e subconsultas,Estudos,Alta,Concluída
+73,Estudar Matplotlib e gráficos,Estudos,Alta,Pendente
+74,Montar flashcards de direito administrativo,Estudos,Baixa,Pendente
+75,Ler capítulo sobre modelagem de dados,Estudos,Média,Concluída
+76,Documentar processo de consolidação,Trabalho,Baixa,Pendente
+77,Reunião de alinhamento com a equipe,Trabalho,Média,Concluída
+78,Trocar o óleo do carro,Pessoal,Baixa,Pendente
+79,Limpar a mesa de trabalho,Pessoal,Média,Concluída
+80,Ler capítulo sobre modelagem de dados,Estudos,Alta,Pendente
+81,Documentar processo de consolidação,Trabalho,Alta,Concluída
+82,Documentar processo de consolidação,Trabalho,Alta,Pendente
+83,Estudar legislação da Embratur,Estudos,Baixa,Pendente
+84,Revisar dashboard do Power BI,Trabalho,Média,Pendente
+85,Reunião de alinhamento com a equipe,Trabalho,Alta,Pendente
+86,Revisar fórmulas do Excel,Estudos,Média,Pendente
+87,Corrigir erro na base de dados,Trabalho,Baixa,Concluída
+88,Praticar Pandas com o dataset de vendas,Estudos,Baixa,Concluída
+89,Organizar arquivos do projeto,Trabalho,Média,Pendente
+90,Revisar dashboard do Power BI,Trabalho,Média,Pendente
+91,Treinar questões da FGV,Estudos,Média,Pendente
+92,Preparar apresentação para a diretoria,Trabalho,Média,Pendente
+93,Pagar conta de luz,Pessoal,Alta,Concluída
+94,Pagar conta de luz,Pessoal,Baixa,Pendente
+95,Marcar consulta,Pessoal,Baixa,Pendente
+96,Treinar redação para o concurso,Estudos,Média,Concluída
+97,Ler capítulo sobre modelagem de dados,Estudos,Alta,Concluída
+98,Resolver lista de exercícios de Python,Estudos,Baixa,Concluída
+99,Revisar contrato do prestador,Trabalho,Baixa,Concluída
+100,Estudar Matplotlib e gráficos,Estudos,Baixa,Concluída
